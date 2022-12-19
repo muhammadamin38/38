@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@1,300&display=swap');
+*
+{
+    font-family: 'Abyssinica SIL', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+body
+{
+    background: #f72213;
+}
+.div
+{
+    width: 1000px;
+    height: 700px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.ert
+{
+    margin-top: -500px;
+}
+.bnm
+{
+    width: 200px;
+    height: 50px;
+    background: pink;
+    border-radius: 50px;
+    margin-left: 100px;
+}
+
+.asd
+{
+    width: 200px;
+    height: 50px;
+    background: pink;
+    border-radius: 50px;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+.vbn
+{
+    width: 500px;
+    height: 50px;
+    background: white;
+    margin-top: -500px;
+    margin-left: 200px;
+    border-radius: 50px;
+}
+.bnm:hover
+{
+    background: blue;
+    transition: 2s;
+}
+.asd:hover
+{
+    background: blue;
+    transition: 2s;
+}
